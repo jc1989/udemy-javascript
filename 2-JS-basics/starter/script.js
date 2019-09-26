@@ -358,7 +358,7 @@ if (height === '23') {
     console.log('The == operator does type coercion!');
 }
 */ //
-
+//
 
 
 /*****************************
